@@ -1,0 +1,72 @@
+**** Welcome to Contact Management System ****
+
+
+                        MAIN MENU
+                =====================
+                [1] Add a new Contact
+                [2] List all Contacts
+                [3] Search for contact
+                [4] Edit a Contact
+                [5] Delete a Contact
+                [0] Exit
+                = = = = = = = = = = = = = = = = = 
+                Enter the choice:
+To exit enter blank space in the name input
+Name (Use identical):Vikas
+Phone:123456789
+address:A block
+email address:vikas@gmail.com
+
+To exit enter blank space in the name input
+Name (Use identical):Vivan
+Phone:546738546
+address:C Block
+email address:Vivan@gmail.com
+
+To exit enter blank space in the name input
+Name (Use identical):
+
+..::Enter the Choice:
+
+        [1] Main Menu           [0] Exit
+1
+      
+    = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+                        LIST OF CONTACTS
+    = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =
+Name            Phone No            Address             E-mail ad.
+   = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+Name    : Vikas
+Phone   : 123456789
+Address : A block
+Email   : vikas@gmail.com
+
+Name    : Vivan
+Phone   : 546738546
+Address : C Block
+Email   : Vivan@gmail.com
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = =  [ V ] - ( 2 )
+. . : : Search result for 'Vikas'
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+. . : : Name        : Vikas
+. . : : Phone       : 123456789
+. . : : Address     : A block
+. . : : Email         : vikas@gmail.com
+
+. . : : 1 match(s) found!
+. . : : Try again?
+        [1] Yes         [0] No
+. . : : Search result for 'Vivan'
+= = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = = 
+. . : : Name        : Vivan
+. . : : Phone       : 546738546
+. . : : Address     : C Block
+. . : : Email       : Vivan@gmail.com
+
+. . : : 1 match(s) found!
+. . : : Try again?
+
+        [1] Yes         [0] No
+. . : : DELETE A CONTACT
+= = = = = = = = = = = = = = = = = =
+. . : : Enter the name of contact to delete:Vikas
